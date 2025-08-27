@@ -2,7 +2,7 @@
 
 Este projeto é uma página web desenvolvida com **HTML** e **CSS**, que apresenta uma seleção dos **10 melhores filmes do Universo Cinematográfico Marvel (MCU)**, segundo a minha opinião.
 
-Foi criado em **2024**, durante o curso **Alura Books**, como parte das atividades práticas voltadas para desenvolvimento front-end básico.
+Foi criado em **2024**, durante o curso **Alura Flix**, como parte das atividades práticas voltadas para desenvolvimento front-end básico.
 
 ## 🖼️ Sobre o projeto
 
